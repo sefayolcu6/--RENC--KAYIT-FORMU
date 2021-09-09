@@ -1,0 +1,12 @@
+C:\Users\Sefa\Desktop\ödevson\ödevson\bin\Debug\ödevson.exe.config
+C:\Users\Sefa\Desktop\ödevson\ödevson\bin\Debug\ödevson.exe
+C:\Users\Sefa\Desktop\ödevson\ödevson\bin\Debug\ödevson.pdb
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.Form1.resources
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.Form2.resources
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.Properties.Resources.resources
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.exe
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.pdb
+C:\Users\Sefa\Desktop\ödevson\ödevson\obj\Debug\ödevson.Form3.resources
